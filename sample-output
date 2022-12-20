@@ -1,0 +1,79 @@
+Command: direct hi Y
+A received hi along path Y V A with cost 15
+V received hi along path Y V with cost 7
+B received hi along path Y E S B with cost 10
+F received hi along path Y C Z F with cost 12
+J received hi along path Y X R W J with cost 11
+L received hi along path Y E S B L with cost 13
+N received hi along path Y E S B N with cost 14
+O received hi along path Y V O with cost 11
+R received hi along path Y X R with cost 5
+S received hi along path Y E S with cost 9
+C received hi along path Y C with cost 1
+Z received hi along path Y C Z with cost 11
+D received hi along path Y E D with cost 8
+E received hi along path Y E with cost 6
+G received hi along path Y E D G with cost 10
+K received hi along path Y K with cost 14
+U received hi along path Y E U with cost 12
+Q received hi along path Y E Q with cost 16
+H received hi along path Y E S H with cost 14
+M received hi along path Y E U M with cost 15
+T received hi along path Y X R W T with cost 13
+W received hi along path Y X R W with cost 10
+I received hi along path Y X I with cost 8
+X received hi along path Y X with cost 3
+P received hi along path Y X P with cost 6
+Command: MST hello Y
+A received hello along path Y X R W T H G D E S B N A with cost 38
+V received hello along path Y X P V with cost 11
+B received hello along path Y X R W T H G D E S B with cost 29
+F received hello along path Y X R W T H G D E S B N Z F with cost 41
+J received hello along path Y X R W J with cost 11
+L received hello along path Y X R W T H G L with cost 24
+N received hello along path Y X R W T H G D E S B N with cost 33
+O received hello along path Y X P V O with cost 15
+R received hello along path Y X R with cost 5
+S received hello along path Y X R W T H G D E S with cost 28
+C received hello along path Y C with cost 1
+Z received hello along path Y X R W T H G D E S B N Z with cost 40
+D received hello along path Y X R W T H G D with cost 23
+E received hello along path Y X R W T H G D E with cost 25
+G received hello along path Y X R W T H G with cost 21
+K received hello along path Y K with cost 14
+U received hello along path Y X R W T H G D E U with cost 31
+Q received hello along path Y X R W T H G D E Q with cost 35
+H received hello along path Y X R W T H with cost 17
+M received hello along path Y X R W T H G D E U M with cost 34
+T received hello along path Y X R W T with cost 13
+W received hello along path Y X R W with cost 10
+I received hello along path Y X I with cost 8
+X received hello along path Y X with cost 3
+P received hello along path Y X P with cost 6
+Command: broadcast howdy Y 2
+A received howdy along path Y V A with cost 15
+V received howdy along path Y V with cost 7
+B received howdy along path Y O B with cost 24
+Could not find path to F
+J received howdy along path Y V J with cost 23
+Could not find path to L
+N received howdy along path Y E N with cost 27
+O received howdy along path Y O with cost 17
+R received howdy along path Y X R with cost 5
+S received howdy along path Y S with cost 14
+C received howdy along path Y C with cost 1
+Z received howdy along path Y S Z with cost 35
+D received howdy along path Y K D with cost 34
+E received howdy along path Y E with cost 6
+Could not find path to G
+K received howdy along path Y K with cost 14
+U received howdy along path Y E U with cost 12
+Q received howdy along path Y E Q with cost 16
+H received howdy along path Y S H with cost 19
+M received howdy along path Y V M with cost 27
+Could not find path to T
+W received howdy along path Y E W with cost 15
+I received howdy along path Y O I with cost 26
+X received howdy along path Y X with cost 3
+P received howdy along path Y V P with cost 12
+Goodbye!
